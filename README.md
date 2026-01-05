@@ -33,7 +33,7 @@ It focuses on **speed**, **clarity**, and **practical use cases** commonly encou
 ## Project Structure
 
 ```
-security-ıncident-artifact-analyzer/
+security-incident-artifact-analyzer/
  ├─ parsers/
  │   ├─ registry_parser.py
  │   ├─ browser_history.py
@@ -53,7 +53,7 @@ security-ıncident-artifact-analyzer/
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/secwexen/security-ıncident-artifact-analyzer
+git clone https://github.com/secwexen/security-incident-artifact-analyzer
 cd security-ıncident-artifact-analyzer
 ```
 
