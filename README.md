@@ -42,9 +42,8 @@ security-ıncident-artifact-analyzer/
  ├─ core/
  │   ├─ analyzer.py
  │   └─ report.py
- ├─ examples/
- │   └─ sample_artifacts/
  ├─ README.md
+ ├─ LICENSE
  └─ requirements.txt
 ```
 
