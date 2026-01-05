@@ -1,7 +1,8 @@
 """
 registry_parser.py
 
-Module for parsing Windows Registry artifacts relevant to incident response.
+Placeholder module for parsing Windows Registry artifacts.
+Currently returns empty structured data but runs without errors.
 """
 
 from typing import List, Dict, Any
@@ -24,7 +25,7 @@ class RegistryParser:
 
         :return: List of dicts containing key, value, and timestamps.
         """
-        # TODO: Implement real parsing logic
+        # TODO: Implement real parsing logic in the future
         return []
 
     def parse_mru_lists(self) -> List[Dict[str, Any]]:
@@ -33,7 +34,7 @@ class RegistryParser:
 
         :return: List of MRU entries.
         """
-        # TODO: Implement real parsing logic
+        # TODO: Implement real parsing logic in the future
         return []
 
     def parse_usb_artifacts(self) -> List[Dict[str, Any]]:
@@ -42,7 +43,7 @@ class RegistryParser:
 
         :return: List of USB device entries.
         """
-        # TODO: Implement real parsing logic
+        # TODO: Implement real parsing logic in the future
         return []
 
     def run(self) -> Dict[str, Any]:
