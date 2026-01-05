@@ -1,7 +1,8 @@
 """
 network_parser.py
 
-Module for parsing basic network artifacts (connections, suspicious IPs, etc.).
+Placeholder module for parsing basic network artifacts.
+Currently returns empty structured data but runs without errors.
 """
 
 from typing import List, Dict, Any
@@ -9,12 +10,12 @@ from typing import List, Dict, Any
 
 class NetworkParser:
     """
-    Parses network artifacts such as connection lists, PCAP summaries, or logs.
+    Parses network artifacts such as connection lists or simple logs.
     """
 
     def __init__(self, source_path: str) -> None:
         """
-        :param source_path: Path to network log, PCAP, or exported data.
+        :param source_path: Path to network log, PCAP summary, or exported data.
         """
         self.source_path = source_path
 
@@ -24,7 +25,6 @@ class NetworkParser:
 
         :return: List of connection records (src, dst, ports, protocol).
         """
-        # TODO: Implement real parsing logic
         return []
 
     def detect_suspicious(self) -> List[Dict[str, Any]]:
@@ -33,7 +33,6 @@ class NetworkParser:
 
         :return: List of suspicious connection records.
         """
-        # TODO: Implement basic detection logic (e.g. rare ports, external IPs, etc.)
         return []
 
     def run(self) -> Dict[str, Any]:
